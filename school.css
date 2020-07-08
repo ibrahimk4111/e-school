@@ -1,0 +1,41 @@
+*{
+    font-family: cursive;
+}
+.sign-in{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    background-image: linear-gradient(to top, rgb(0, 243, 0) 0%, rgb(75, 195, 75) 100%);
+     
+}
+.container{
+    margin-top: 30px;
+}
+.ready-img{
+    height: 350px;
+}
+.ready-text{
+    background-image: url(img/another-illustrate.png);
+}
+.ready-text h5{
+    color: rgb(76, 153, 5);
+}
+.ready-text p{
+    color: gray;
+}
+.ready-text .btn-in-text{
+    background-color: #FAAF3A;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+.ready-text h1{
+    font-weight: 700;
+    font-size: 55px;
+}
+.ready-text .sptext{
+    color: #FAAF3A;
+    font-size: 65px;
+}

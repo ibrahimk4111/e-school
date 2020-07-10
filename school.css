@@ -1,15 +1,17 @@
 *{
     font-family: cursive;
 }
-.sign-in{
-    font-size: large;
+.div-nav-text{
+    background-color: #ffffff;
+}
+#sign-in{
+    font-size: 20px;
     color: rgb(255, 255, 255);
     border-radius: 20px;
-    background-image: linear-gradient(to top, rgb(0, 243, 0) 0%, rgb(75, 195, 75) 100%);
-     
+    background-image: linear-gradient(to top, rgb(0, 243, 0) 0%, rgb(75, 195, 75) 100%);  
 }
 .container{
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .ready-img{
     height: 350px;
@@ -26,16 +28,114 @@
 .ready-text .btn-in-text{
     background-color: #FAAF3A;
     border: none;
-    color: white;
-    padding: 10px 25px;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
     border-radius: 25px;
     font-size: 20px;
 }
 .ready-text h1{
     font-weight: 700;
-    font-size: 55px;
+    font-size: px;
+    text-align: left;
 }
 .ready-text .sptext{
     color: #FAAF3A;
     font-size: 65px;
+}
+.nav-item a{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.rowitem{
+    border: 2px solid red;
+}
+.div-img-1{
+    background-color: rgb(246, 255, 246);
+    border-radius: 10px;
+    height: 300px;
+    margin: 10px;
+    padding-top: 40px;
+}
+.div-img-1 img{
+    width: 70px;
+}
+.s2{
+    background-color: white;
+    box-shadow: 2px 2px 30px rgb(212, 212, 212);
+}
+.imgsec{
+    margin-bottom: 40px;
+}
+.sec{
+    margin-top: 50px;
+}
+.ctr{
+    text-align: center;
+}
+.container h1{
+    
+    text-align: center;
+    margin: 100px;
+}
+.carddiv{
+    box-shadow: 5px 5px 30px rgb(196, 196, 196);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.carddiv img{
+    height: 200px;
+    width: 300px;
+    margin-left: 30px;
+}
+.card-body a{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 15px;
+}
+.testimonialcontent{
+    color: red;
+    max-width: 200px;
+
+}
+.testimonialimg img{
+    height: 100px;
+}
+.testimonialdiv{
+    margin-left: ;
+    width: 600px;
+}
+.testiimg img{
+    margin-left: 230px;
+    height: 150px;
+}
+.testidiv{
+    padding: 50px;
+}
+.testitext{
+    float: right;
+    width: 600px;
+}
+.testisec{
+    width: 1000px;
+}
+.footer-copy{
+    text-align: center;
+    margin-top: 50px;
+}
+.footerhalf{
+    margin-bottom: 100px;
+}
+.footerdiv{
+    padding: 50px 0px;
+    background-color: black;
+    color: white;
+}
+.container li{
+    list-style: none;
+}
+
+.container ul{
+    margin-top: 20px;
 }
